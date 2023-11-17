@@ -1,0 +1,28 @@
+nav {
+    /* background-color: black; */
+    display: flex;
+    height: 50px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    cursor: default;
+}
+
+.logo {
+    font-size: 40px;
+    color: orangered;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin-left: 50px;
+}
+
+li {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50px;
+    font-size: 20px;
+}

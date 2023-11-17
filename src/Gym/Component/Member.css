@@ -1,0 +1,37 @@
+form {
+    height:420px;
+    width: 500px;
+    border: 2px solid orangered;
+    padding-top: 20px;
+    background: transparent;
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+h3 {
+    margin-top: 45px;
+}
+
+input{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid orangered;
+}
+
+select {
+    color: orangered;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid orangered;
+}
+
+option {
+    color: black;
+    background: transparent;
+}
+
+button{
+    color: orangered;
+    cursor: pointer;
+}

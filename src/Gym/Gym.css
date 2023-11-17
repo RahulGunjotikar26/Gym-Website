@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap");
+
+*{
+    color: white;
+    font-family: 'Kanit';
+}
+
+.bg {
+    background-image: url(./Images/Everlast\ Fitness\ Club\ Gym\ Design\ Mirrors\ Lighting\ Signage\ Free\ Weights.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 792px;
+}
